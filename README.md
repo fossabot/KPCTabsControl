@@ -22,6 +22,7 @@ KPCTabsControl
 ![Platform](https://img.shields.io/cocoapods/p/KPCTabsControl.svg?style=flat)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Codewake](https://www.codewake.com/badges/ask_question.svg)](https://www.codewake.com/p/kpctabscontrol)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fonekiloparsec%2FKPCTabsControl.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fonekiloparsec%2FKPCTabsControl?ref=badge_shield)
  
 A multi-tabs control first designed to look and behave like the tab control in Apple's Numbers spreadsheet, with enhanced capabilities, but now with new tab styles, such as Chrome & Safari, as well as custom ones.  
 
@@ -77,3 +78,7 @@ LICENSE & NOTES
 KPCTabsControl is licensed under the MIT license and hosted on GitHub at https://github.com/onekiloparsec/KPCTabsControl/ Fork the project and feel free to send pull requests with your changes!
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fonekiloparsec%2FKPCTabsControl.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fonekiloparsec%2FKPCTabsControl?ref=badge_large)
